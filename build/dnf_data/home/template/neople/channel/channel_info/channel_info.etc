@@ -1,0 +1,774 @@
+[dungeon]
+`[Alfhlyra]`
+<4::channel_info_dname_4>
+31
+32
+34
+35
+36
+50
+51
+37
+[/dungeon]
+
+
+[dungeon]
+`[ancient]`
+<4::channel_info_dname_8>
+33
+1500
+1501
+1502
+1504
+1506
+1507
+[/dungeon]
+
+
+[dungeon]
+`[Antwer]`
+<4::channel_info_dname_11>
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+[/dungeon]
+
+
+[dungeon]
+`[attackzone]`
+<4::channel_info_dname_17>
+3049
+30.0 ``
+[/dungeon]
+
+
+[dungeon]
+`[behemoth]`
+<4::channel_info_dname_3>
+21
+22
+23
+24
+25
+26
+27
+90
+91
+[/dungeon]
+
+
+[dungeon]
+`[deathtower]`
+<4::channel_info_dname_7>
+[/dungeon]
+
+
+[dungeon]
+`[dragonroad]`
+<4::channel_info_dname_13>
+[/dungeon]
+
+
+[dungeon]
+`[elven_guard]`
+<4::channel_info_dname_0>
+1
+2
+[/dungeon]
+
+
+[dungeon]
+`[Fortress]`
+<4::channel_info_dname_9>
+60
+61
+110
+111
+112
+[/dungeon]
+
+
+[dungeon]
+`[goldenroad]`
+<4::channel_info_dname_20>
+[/dungeon]
+
+
+[dungeon]
+`[granfloris]`
+<4::channel_info_dname_1>
+3
+4
+5
+6
+7
+8
+9
+10.0 ``
+1
+2
+130
+131
+132
+133
+134
+135
+[/dungeon]
+
+
+[dungeon]
+`[Hall]`
+<4::channel_info_dname_10>
+110
+111
+112
+[/dungeon]
+
+
+[dungeon]
+`[impossible]`
+<4::channel_info_dname_12>
+1500
+1501
+33
+62
+63
+64
+1502
+[/dungeon]
+
+
+[dungeon]
+`[north_myre]`
+<4::channel_info_dname_5>
+31
+32
+34
+35
+36
+50
+51
+37
+52
+53
+1506
+[/dungeon]
+
+
+[dungeon]
+`[powerstation]`
+<4::channel_info_dname_16>
+101
+102
+103
+104
+[/dungeon]
+
+
+[dungeon]
+`[seatrain]`
+<4::channel_info_dname_13>
+86
+87
+1504
+92
+93
+101
+102
+103
+104
+[/dungeon]
+
+
+[dungeon]
+`[sky_catle]`
+<4::channel_info_dname_2>
+11
+12
+13
+14
+15
+17
+[/dungeon]
+
+
+[dungeon]
+`[stormpass]`
+<4::channel_info_dname_6>
+40
+41
+42
+43
+44
+45
+140
+141
+[/dungeon]
+
+
+[dungeon]
+`[timedoor]`
+<4::channel_info_dname_15>
+72
+71
+70
+73
+74
+75
+76
+77
+515
+516
+517
+518
+519
+520
+200
+201
+202
+203
+204
+205
+206
+[/dungeon]
+
+
+[dungeon]
+`[tournament]`
+<4::channel_info_dname_19>
+[/dungeon]
+
+
+[dungeon]
+`[zombie]`
+<4::channel_info_dname_18>
+3100
+3101
+[/dungeon]
+
+
+[server] 1
+   1   `<4::channel_info_cname_508>`   11   `[deathtower]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   6   `<4::channel_info_cname_6>`   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   7   `<4::channel_info_cname_7>`   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   11   `<4::channel_info_cname_11>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   12   `<4::channel_info_cname_12>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   13   `<4::channel_info_cname_13>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   14   `<4::channel_info_cname_14>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   15   `<4::channel_info_cname_15>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   16   `<4::channel_info_cname_21>`   0   `[sky_catle]`   3   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   17   `<4::channel_info_cname_22>`   0   `[sky_catle]`   3   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   18   `<4::channel_info_cname_23>`   0   `[sky_catle]`   3   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   19   `<4::channel_info_cname_24>`   0   `[sky_catle]`   3   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   20   `<4::channel_info_cname_31>`   0   `[behemoth]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   21   `<4::channel_info_cname_32>`   0   `[behemoth]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   22   `<4::channel_info_cname_33>`   0   `[behemoth]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   23   `<4::channel_info_cname_34>`   0   `[behemoth]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   24   `<4::channel_info_cname_41>`   0   `[Alfhlyra]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   25   `<4::channel_info_cname_42>`   0   `[Alfhlyra]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   26   `<4::channel_info_cname_43>`   0   `[Alfhlyra]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   27   `<4::channel_info_cname_61>`   0   `[stormpass]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   28   `<4::channel_info_cname_62>`   0   `[stormpass]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   29   `<4::channel_info_cname_63>`   0   `[stormpass]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   30   `<4::channel_info_cname_71>`   0   `[Fortress]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   31   `<4::channel_info_cname_72>`   0   `[Fortress]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   32   `<4::channel_info_cname_73>`   0   `[Fortress]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   33   `<4::channel_info_cname_51>`   0   `[north_myre]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   34   `<4::channel_info_cname_52>`   0   `[north_myre]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   35   `<4::channel_info_cname_91>`   0   `[Antwer]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   36   `<4::channel_info_cname_92>`   0   `[Antwer]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   37   `<4::channel_info_cname_111>`   0   `[seatrain]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   38   `<4::channel_info_cname_112>`   0   `[seatrain]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   39   `<4::channel_info_cname_121>`   0   `[ancient]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+[/server]
+
+
+[server] 2
+   1   `<4::channel_info_cname_508>`   11   `[deathtower]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   6   `<4::channel_info_cname_6>`   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   7   `<4::channel_info_cname_7>`   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   11   `<4::channel_info_cname_11>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   12   `<4::channel_info_cname_12>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   13   `<4::channel_info_cname_13>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   14   `<4::channel_info_cname_14>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   15   `<4::channel_info_cname_15>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   16   `<4::channel_info_cname_21>`   0   `[sky_catle]`   3   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   17   `<4::channel_info_cname_22>`   0   `[sky_catle]`   3   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   18   `<4::channel_info_cname_23>`   0   `[sky_catle]`   3   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   19   `<4::channel_info_cname_24>`   0   `[sky_catle]`   3   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   20   `<4::channel_info_cname_31>`   0   `[behemoth]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   21   `<4::channel_info_cname_32>`   0   `[behemoth]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   22   `<4::channel_info_cname_33>`   0   `[behemoth]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   23   `<4::channel_info_cname_34>`   0   `[behemoth]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   24   `<4::channel_info_cname_41>`   0   `[Alfhlyra]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   25   `<4::channel_info_cname_42>`   0   `[Alfhlyra]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   26   `<4::channel_info_cname_43>`   0   `[Alfhlyra]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   27   `<4::channel_info_cname_61>`   0   `[stormpass]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   28   `<4::channel_info_cname_62>`   0   `[stormpass]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   29   `<4::channel_info_cname_63>`   0   `[stormpass]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   30   `<4::channel_info_cname_71>`   0   `[Fortress]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   31   `<4::channel_info_cname_72>`   0   `[Fortress]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   32   `<4::channel_info_cname_73>`   0   `[Fortress]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   33   `<4::channel_info_cname_51>`   0   `[north_myre]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   34   `<4::channel_info_cname_52>`   0   `[north_myre]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   35   `<4::channel_info_cname_91>`   0   `[Antwer]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   36   `<4::channel_info_cname_92>`   0   `[Antwer]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   37   `<4::channel_info_cname_111>`   0   `[seatrain]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   38   `<4::channel_info_cname_112>`   0   `[seatrain]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   39   `<4::channel_info_cname_121>`   0   `[ancient]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+[/server]
+
+
+[server] 3
+   1   `<4::channel_info_cname_508>`   11   `[deathtower]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   6   `<4::channel_info_cname_6>`   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   7   `<4::channel_info_cname_7>`   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   11   `<4::channel_info_cname_11>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   12   `<4::channel_info_cname_12>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   13   `<4::channel_info_cname_13>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   14   `<4::channel_info_cname_14>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   15   `<4::channel_info_cname_15>`   0   `[granfloris]`   5   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   16   `<4::channel_info_cname_21>`   0   `[sky_catle]`   3   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   17   `<4::channel_info_cname_22>`   0   `[sky_catle]`   3   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   18   `<4::channel_info_cname_23>`   0   `[sky_catle]`   3   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   19   `<4::channel_info_cname_24>`   0   `[sky_catle]`   3   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   20   `<4::channel_info_cname_31>`   0   `[behemoth]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   21   `<4::channel_info_cname_32>`   0   `[behemoth]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   22   `<4::channel_info_cname_33>`   0   `[behemoth]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   23   `<4::channel_info_cname_34>`   0   `[behemoth]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   24   `<4::channel_info_cname_41>`   0   `[Alfhlyra]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   25   `<4::channel_info_cname_42>`   0   `[Alfhlyra]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   26   `<4::channel_info_cname_43>`   0   `[Alfhlyra]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   27   `<4::channel_info_cname_61>`   0   `[stormpass]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   28   `<4::channel_info_cname_62>`   0   `[stormpass]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   29   `<4::channel_info_cname_63>`   0   `[stormpass]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   30   `<4::channel_info_cname_71>`   0   `[Fortress]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   31   `<4::channel_info_cname_72>`   0   `[Fortress]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   32   `<4::channel_info_cname_73>`   0   `[Fortress]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   33   `<4::channel_info_cname_51>`   0   `[north_myre]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   34   `<4::channel_info_cname_52>`   0   `[north_myre]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   35   `<4::channel_info_cname_91>`   0   `[Antwer]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   36   `<4::channel_info_cname_92>`   0   `[Antwer]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   37   `<4::channel_info_cname_111>`   0   `[seatrain]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   38   `<4::channel_info_cname_112>`   0   `[seatrain]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   39   `<4::channel_info_cname_121>`   0   `[ancient]`   2   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   52   `<4::channel_info_cname_505>`   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   53   `<4::channel_info_cname_501>`   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   54   `<4::channel_info_cname_502>`   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   55   `<4::channel_info_cname_503>`   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+   56   `<4::channel_info_cname_504>`   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   ``
+[/server]
+
+[server] 4
+   1   <4::channel_info_cname_510>   11   `[deathtower]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   2   <4::channel_info_cname_1>   11   `[goldenroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   6   <4::channel_info_cname_6>   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   10   <4::channel_info_cname_11>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   11   <4::channel_info_cname_12>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   12   <4::channel_info_cname_21>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   13   <4::channel_info_cname_22>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   14   <4::channel_info_cname_31>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   15   <4::channel_info_cname_32>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   16   <4::channel_info_cname_131>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   17   <4::channel_info_cname_132>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   18   <4::channel_info_cname_133>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   19   <4::channel_info_cname_41>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   20   <4::channel_info_cname_42>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   21   <4::channel_info_cname_61>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   22   <4::channel_info_cname_62>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   23   <4::channel_info_cname_71>   0   `[Fortress]`   15   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0 ``
+   24   <4::channel_info_cname_51>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   25   <4::channel_info_cname_52>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   26   <4::channel_info_cname_91>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   27   <4::channel_info_cname_92>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   28   <4::channel_info_cname_111>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   29   <4::channel_info_cname_112>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   30   <4::channel_info_cname_151>   0   `[powerstation]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   31   <4::channel_info_cname_141>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   32   <4::channel_info_cname_142>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   33   <4::channel_info_cname_121>   0   `[ancient]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   34   <4::channel_info_cname_101>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   35   <4::channel_info_cname_102>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   199   <4::channel_info_cname_512>   17   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+[/server]
+
+
+[server] 5
+   1   <4::channel_info_cname_510>   11   `[deathtower]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   2   <4::channel_info_cname_1>   11   `[goldenroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   6   <4::channel_info_cname_6>   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   10   <4::channel_info_cname_11>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   11   <4::channel_info_cname_12>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   12   <4::channel_info_cname_21>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   13   <4::channel_info_cname_22>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   14   <4::channel_info_cname_31>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   15   <4::channel_info_cname_32>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   16   <4::channel_info_cname_131>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   17   <4::channel_info_cname_132>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   18   <4::channel_info_cname_133>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   19   <4::channel_info_cname_41>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   20   <4::channel_info_cname_42>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   21   <4::channel_info_cname_61>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   22   <4::channel_info_cname_62>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   23   <4::channel_info_cname_71>   0   `[Fortress]`   15   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0 ``
+   24   <4::channel_info_cname_51>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   25   <4::channel_info_cname_52>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   26   <4::channel_info_cname_91>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   27   <4::channel_info_cname_92>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   28   <4::channel_info_cname_111>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   29   <4::channel_info_cname_112>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   30   <4::channel_info_cname_151>   0   `[powerstation]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   31   <4::channel_info_cname_141>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   32   <4::channel_info_cname_142>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   33   <4::channel_info_cname_121>   0   `[ancient]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   34   <4::channel_info_cname_101>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   35   <4::channel_info_cname_102>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   199   <4::channel_info_cname_512>   17   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+[/server]
+
+
+[server] 6
+   1   <4::channel_info_cname_510>   11   `[deathtower]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   2   <4::channel_info_cname_1>   11   `[goldenroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   6   <4::channel_info_cname_6>   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   10   <4::channel_info_cname_11>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   11   <4::channel_info_cname_12>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   12   <4::channel_info_cname_21>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   13   <4::channel_info_cname_22>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   14   <4::channel_info_cname_31>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   15   <4::channel_info_cname_32>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   16   <4::channel_info_cname_131>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   17   <4::channel_info_cname_132>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   18   <4::channel_info_cname_133>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   19   <4::channel_info_cname_41>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   20   <4::channel_info_cname_42>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   21   <4::channel_info_cname_61>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   22   <4::channel_info_cname_62>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   23   <4::channel_info_cname_71>   0   `[Fortress]`   15   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0 ``
+   24   <4::channel_info_cname_51>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   25   <4::channel_info_cname_52>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   26   <4::channel_info_cname_91>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   27   <4::channel_info_cname_92>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   28   <4::channel_info_cname_111>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   29   <4::channel_info_cname_112>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   30   <4::channel_info_cname_151>   0   `[powerstation]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   31   <4::channel_info_cname_141>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   32   <4::channel_info_cname_142>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   33   <4::channel_info_cname_121>   0   `[ancient]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   34   <4::channel_info_cname_101>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   35   <4::channel_info_cname_102>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   199   <4::channel_info_cname_512>   17   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+[/server]
+
+
+[server] 9
+   1   <4::channel_info_cname_510>   11   `[deathtower]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   2   <4::channel_info_cname_1>   11   `[goldenroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   6   <4::channel_info_cname_6>   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   10   <4::channel_info_cname_11>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   11   <4::channel_info_cname_12>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   12   <4::channel_info_cname_21>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   13   <4::channel_info_cname_22>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   14   <4::channel_info_cname_31>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   15   <4::channel_info_cname_32>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   16   <4::channel_info_cname_131>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   17   <4::channel_info_cname_132>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   18   <4::channel_info_cname_133>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   19   <4::channel_info_cname_41>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   20   <4::channel_info_cname_42>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   21   <4::channel_info_cname_61>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   22   <4::channel_info_cname_62>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   23   <4::channel_info_cname_71>   0   `[Fortress]`   15   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0 ``
+   24   <4::channel_info_cname_51>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   25   <4::channel_info_cname_52>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   26   <4::channel_info_cname_91>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   27   <4::channel_info_cname_92>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   28   <4::channel_info_cname_111>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   29   <4::channel_info_cname_112>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   30   <4::channel_info_cname_151>   0   `[powerstation]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   31   <4::channel_info_cname_141>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   32   <4::channel_info_cname_142>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   33   <4::channel_info_cname_121>   0   `[ancient]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   34   <4::channel_info_cname_101>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   35   <4::channel_info_cname_102>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   199   <4::channel_info_cname_512>   17   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+[/server]
+
+
+[server] 11
+   1   <4::channel_info_cname_510>   11   `[deathtower]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   2   <4::channel_info_cname_1>   11   `[goldenroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   6   <4::channel_info_cname_6>   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   10   <4::channel_info_cname_11>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   11   <4::channel_info_cname_12>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   12   <4::channel_info_cname_21>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   13   <4::channel_info_cname_22>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   14   <4::channel_info_cname_31>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   15   <4::channel_info_cname_32>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   16   <4::channel_info_cname_131>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   17   <4::channel_info_cname_132>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   18   <4::channel_info_cname_133>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   19   <4::channel_info_cname_41>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   20   <4::channel_info_cname_42>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   21   <4::channel_info_cname_61>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   22   <4::channel_info_cname_62>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   23   <4::channel_info_cname_71>   0   `[Fortress]`   15   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0 ``
+   24   <4::channel_info_cname_51>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   25   <4::channel_info_cname_52>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   26   <4::channel_info_cname_91>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   27   <4::channel_info_cname_92>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   28   <4::channel_info_cname_111>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   29   <4::channel_info_cname_112>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   30   <4::channel_info_cname_151>   0   `[powerstation]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   31   <4::channel_info_cname_141>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   32   <4::channel_info_cname_142>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   33   <4::channel_info_cname_121>   0   `[ancient]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   34   <4::channel_info_cname_101>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   35   <4::channel_info_cname_102>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   199   <4::channel_info_cname_512>   17   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+[/server]
+
+
+[server] 14
+   1   <4::channel_info_cname_510>   11   `[deathtower]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   2   <4::channel_info_cname_1>   11   `[goldenroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   6   <4::channel_info_cname_6>   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   10   <4::channel_info_cname_11>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   11   <4::channel_info_cname_12>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   12   <4::channel_info_cname_21>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   13   <4::channel_info_cname_22>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   14   <4::channel_info_cname_31>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   15   <4::channel_info_cname_32>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   16   <4::channel_info_cname_131>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   17   <4::channel_info_cname_132>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   18   <4::channel_info_cname_133>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   19   <4::channel_info_cname_41>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   20   <4::channel_info_cname_42>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   21   <4::channel_info_cname_61>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   22   <4::channel_info_cname_62>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   23   <4::channel_info_cname_71>   0   `[Fortress]`   15   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0 ``
+   24   <4::channel_info_cname_51>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   25   <4::channel_info_cname_52>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   26   <4::channel_info_cname_91>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   27   <4::channel_info_cname_92>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   28   <4::channel_info_cname_111>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   29   <4::channel_info_cname_112>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   30   <4::channel_info_cname_151>   0   `[powerstation]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   31   <4::channel_info_cname_141>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   32   <4::channel_info_cname_142>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   33   <4::channel_info_cname_121>   0   `[ancient]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   34   <4::channel_info_cname_101>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   35   <4::channel_info_cname_102>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   199   <4::channel_info_cname_512>   17   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+[/server]
+
+
+[server] 17
+   1   <4::channel_info_cname_510>   11   `[deathtower]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   2   <4::channel_info_cname_1>   11   `[goldenroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   6   <4::channel_info_cname_6>   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   10   <4::channel_info_cname_11>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   11   <4::channel_info_cname_12>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   12   <4::channel_info_cname_13>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   13   <4::channel_info_cname_14>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   14   <4::channel_info_cname_15>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   15   <4::channel_info_cname_16>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   16   <4::channel_info_cname_17>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   17   <4::channel_info_cname_21>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   18   <4::channel_info_cname_22>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   19   <4::channel_info_cname_23>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   20   <4::channel_info_cname_24>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   21   <4::channel_info_cname_25>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   22   <4::channel_info_cname_131>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   23   <4::channel_info_cname_132>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   24   <4::channel_info_cname_133>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   25   <4::channel_info_cname_26>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   26   <4::channel_info_cname_27>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   27   <4::channel_info_cname_31>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   28   <4::channel_info_cname_32>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   29   <4::channel_info_cname_33>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   30   <4::channel_info_cname_34>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   31   <4::channel_info_cname_35>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   32   <4::channel_info_cname_36>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   33   <4::channel_info_cname_41>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   34   <4::channel_info_cname_42>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   35   <4::channel_info_cname_43>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   36   <4::channel_info_cname_44>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   37   <4::channel_info_cname_61>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   38   <4::channel_info_cname_62>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   39   <4::channel_info_cname_63>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   40   <4::channel_info_cname_71>   0   `[Fortress]`   15   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0 ``
+   41   <4::channel_info_cname_51>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   42   <4::channel_info_cname_121>   0   `[ancient]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   186   <4::channel_info_cname_171>   19   `[zombie]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   187   <4::channel_info_cname_172>   19   `[zombie]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   188   <4::channel_info_cname_173>   19   `[zombie]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   199   <4::channel_info_cname_512>   17   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+[/server]
+
+[server] 98
+   1   <4::channel_info_cname_510>   11   `[deathtower]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   2   <4::channel_info_cname_1>   11   `[goldenroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   6   <4::channel_info_cname_6>   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   10   <4::channel_info_cname_11>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   11   <4::channel_info_cname_12>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   12   <4::channel_info_cname_21>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   13   <4::channel_info_cname_22>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   14   <4::channel_info_cname_31>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   15   <4::channel_info_cname_32>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   16   <4::channel_info_cname_131>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   17   <4::channel_info_cname_132>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   18   <4::channel_info_cname_133>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   19   <4::channel_info_cname_41>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   20   <4::channel_info_cname_42>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   21   <4::channel_info_cname_61>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   22   <4::channel_info_cname_62>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   23   <4::channel_info_cname_71>   0   `[Fortress]`   15   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0 ``
+   24   <4::channel_info_cname_51>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   25   <4::channel_info_cname_52>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   26   <4::channel_info_cname_91>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   27   <4::channel_info_cname_92>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   28   <4::channel_info_cname_111>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   29   <4::channel_info_cname_112>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   30   <4::channel_info_cname_151>   0   `[powerstation]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   31   <4::channel_info_cname_141>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   32   <4::channel_info_cname_142>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   33   <4::channel_info_cname_121>   0   `[ancient]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   34   <4::channel_info_cname_101>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   35   <4::channel_info_cname_102>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   71   <4::channel_info_cname_507>   7   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   72   <4::channel_info_cname_601>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   73   <4::channel_info_cname_602>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   74   <4::channel_info_cname_603>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   75   <4::channel_info_cname_604>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   76   <4::channel_info_cname_605>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   77   <4::channel_info_cname_606>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   78   <4::channel_info_cname_607>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   79   <4::channel_info_cname_608>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   80   <4::channel_info_cname_609>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   81   <4::channel_info_cname_610>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   82   <4::channel_info_cname_611>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   83   <4::channel_info_cname_612>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   101   <4::channel_info_cname_651>   13   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   102   <4::channel_info_cname_652>   13   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   103   <4::channel_info_cname_653>   13   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   121   <4::channel_info_cname_671>   14   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   122   <4::channel_info_cname_672>   14   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   131   <4::channel_info_cname_701>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   132   <4::channel_info_cname_702>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   133   <4::channel_info_cname_703>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   134   <4::channel_info_cname_704>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   135   <4::channel_info_cname_705>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   136   <4::channel_info_cname_706>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   137   <4::channel_info_cname_707>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   138   <4::channel_info_cname_708>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   139   <4::channel_info_cname_709>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   140   <4::channel_info_cname_710>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   141   <4::channel_info_cname_711>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   142   <4::channel_info_cname_712>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   143   <4::channel_info_cname_713>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   144   <4::channel_info_cname_714>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   145   <4::channel_info_cname_715>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   146   <4::channel_info_cname_716>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   147   <4::channel_info_cname_717>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   148   <4::channel_info_cname_718>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   149   <4::channel_info_cname_719>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   150   <4::channel_info_cname_720>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   151   <4::channel_info_cname_721>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   152   <4::channel_info_cname_722>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   161   <4::channel_info_cname_731>   16   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   162   <4::channel_info_cname_732>   16   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   163   <4::channel_info_cname_733>   16   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   164   <4::channel_info_cname_515>   20   `[tournament]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   186   <4::channel_info_cname_171>   19   `[zombie]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   187   <4::channel_info_cname_172>   19   `[zombie]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   188   <4::channel_info_cname_173>   19   `[zombie]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   199   <4::channel_info_cname_512>   17   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+[/server]
+
+[server] 99
+   1   <4::channel_info_cname_510>   11   `[deathtower]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   2   <4::channel_info_cname_1>   11   `[goldenroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   6   <4::channel_info_cname_6>   3   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   10   <4::channel_info_cname_11>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   11   <4::channel_info_cname_12>   0   `[granfloris]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   12   <4::channel_info_cname_21>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   13   <4::channel_info_cname_22>   0   `[sky_catle]`   15   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   14   <4::channel_info_cname_31>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   15   <4::channel_info_cname_32>   0   `[behemoth]`   15   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   16   <4::channel_info_cname_131>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   17   <4::channel_info_cname_132>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   18   <4::channel_info_cname_133>   0   `[dragonroad]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   19   <4::channel_info_cname_41>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   20   <4::channel_info_cname_42>   0   `[Alfhlyra]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   21   <4::channel_info_cname_61>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   22   <4::channel_info_cname_62>   0   `[stormpass]`   15   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0   0.0 ``
+   23   <4::channel_info_cname_71>   0   `[Fortress]`   15   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0   0.0 ``
+   24   <4::channel_info_cname_51>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   25   <4::channel_info_cname_52>   0   `[north_myre]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   26   <4::channel_info_cname_91>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   27   <4::channel_info_cname_92>   0   `[Antwer]`   15   0.0   0.0   0.0   0.0   0.0   1.0   1.0   0.0   0.0   0.0 ``
+   28   <4::channel_info_cname_111>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   29   <4::channel_info_cname_112>   0   `[seatrain]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   30   <4::channel_info_cname_151>   0   `[powerstation]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   31   <4::channel_info_cname_141>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   32   <4::channel_info_cname_142>   0   `[timedoor]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   33   <4::channel_info_cname_121>   0   `[ancient]`   15   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   34   <4::channel_info_cname_101>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   35   <4::channel_info_cname_102>   0   `[impossible]`   15   0.0   0.0   0.0   0.0   0.0   0.0   1.0   0.0   0.0   0.0 ``
+   71   <4::channel_info_cname_507>   7   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   72   <4::channel_info_cname_601>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   73   <4::channel_info_cname_602>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   74   <4::channel_info_cname_603>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   75   <4::channel_info_cname_604>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   76   <4::channel_info_cname_605>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   77   <4::channel_info_cname_606>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   78   <4::channel_info_cname_607>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   79   <4::channel_info_cname_608>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   80   <4::channel_info_cname_609>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   81   <4::channel_info_cname_610>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   82   <4::channel_info_cname_611>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   83   <4::channel_info_cname_612>   8   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   101   <4::channel_info_cname_651>   13   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   102   <4::channel_info_cname_652>   13   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   103   <4::channel_info_cname_653>   13   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   121   <4::channel_info_cname_671>   14   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   122   <4::channel_info_cname_672>   14   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   131   <4::channel_info_cname_701>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   132   <4::channel_info_cname_702>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   133   <4::channel_info_cname_703>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   134   <4::channel_info_cname_704>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   135   <4::channel_info_cname_705>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   136   <4::channel_info_cname_706>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   137   <4::channel_info_cname_707>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   138   <4::channel_info_cname_708>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   139   <4::channel_info_cname_709>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   140   <4::channel_info_cname_710>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   141   <4::channel_info_cname_711>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   142   <4::channel_info_cname_712>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   143   <4::channel_info_cname_713>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   144   <4::channel_info_cname_714>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   145   <4::channel_info_cname_715>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   146   <4::channel_info_cname_716>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   147   <4::channel_info_cname_717>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   148   <4::channel_info_cname_718>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   149   <4::channel_info_cname_719>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   150   <4::channel_info_cname_720>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   151   <4::channel_info_cname_721>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   152   <4::channel_info_cname_722>   15   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   161   <4::channel_info_cname_731>   16   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   162   <4::channel_info_cname_732>   16   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   163   <4::channel_info_cname_733>   16   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   164   <4::channel_info_cname_515>   20   `[tournament]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   186   <4::channel_info_cname_171>   19   `[zombie]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   187   <4::channel_info_cname_172>   19   `[zombie]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   188   <4::channel_info_cname_173>   19   `[zombie]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+   199   <4::channel_info_cname_512>   17   `[none]`   0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0 ``
+[/server]

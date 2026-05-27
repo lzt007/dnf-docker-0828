@@ -1,0 +1,19 @@
+killall -9 df_auction_r
+killall -9 df_point_r
+
+sleep 1
+
+killall -9 df_auction_r
+killall -9 df_point_r
+
+cd /home/neople/auction
+chmod 777 *
+rm -f  /home/neople/auction/pid/*.pid
+rm -rf  /home/neople/auction/log/*.*
+./df_auction_r ./cfg/auction_siroco.cfg start ./df_auction_r &
+
+cd /home/neople/point
+chmod 777 *
+rm -f  /home/neople/point/pid/*.pid
+rm -rf  /home/neople/point/log/*.*
+./df_point_r ./cfg/point_siroco.cfg start df_point_r &
